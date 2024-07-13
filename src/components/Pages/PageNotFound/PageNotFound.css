@@ -1,0 +1,13 @@
+.imagem {
+    text-align: center;   
+}
+.imagem h2 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 28px;
+}
+.imagem img {
+    width: 580px;
+    height: 480px;
+    text-align: center;
+}

@@ -1,0 +1,44 @@
+.header{
+    width: 100%;
+    height: 650px;
+    margin: 0px auto;
+    background: url(./logo_header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.header-contents{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 0.8vw;
+    max-width: 50%;
+    bottom: 5%;
+    left: 6vw;
+    animation: .3s;
+}   
+
+.header-contents h2 {
+    font-weight: 500;
+    color: #fff;
+    font-size: 40px;
+}
+.header-contents p {
+    color: #fff;
+    font-size: 22px;
+}
+
+.header-contents button {
+    border: none;
+    color: tomato;
+    font-weight: 700;
+    padding: 15px 25px;
+    background-color: yellowgreen;
+    border-radius: 50px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
