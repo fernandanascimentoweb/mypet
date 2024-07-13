@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mypet/static/css/main.9376c532.css",
+    "main.js": "/mypet/static/js/main.be28fec3.js",
+    "static/media/logo_header.jpg": "/mypet/static/media/logo_header.00b87a271bd1276127a7.jpg",
+    "static/media/logo_404.png": "/mypet/static/media/logo_404.3c24ffdb230f0afd170c.png",
+    "index.html": "/mypet/index.html",
+    "main.9376c532.css.map": "/mypet/static/css/main.9376c532.css.map",
+    "main.be28fec3.js.map": "/mypet/static/js/main.be28fec3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9376c532.css",
+    "static/js/main.be28fec3.js"
+  ]
+}
